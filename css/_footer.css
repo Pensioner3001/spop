@@ -1,0 +1,76 @@
+.footer {
+   padding-bottom: 48px; 
+}
+
+.footer-content {
+    border-top: 1px solid #e6e6e6;
+    justify-content: space-between;
+    display: flex;
+    padding: 50px 0;
+}
+.footer-content-col-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer-logo {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.footer-social {
+    display: flex;
+    gap: 8px;
+}
+
+.footer-social-link-fb {
+    background-image: url(../image/icon/fb.svg);
+    width: 24px;
+    height: 24px;
+}
+
+.footer-social-link-in {
+    background-image: url(../image/icon/in.svg);
+    width: 24px;
+    height: 24px;
+}
+
+.footer-social-link-you {
+    background-image: url(../image/icon/youtube.svg);
+    width: 24px;
+    height: 24px;
+}
+
+.footer-social-link-inst {
+    background-image: url(../image/icon/inst.svg);
+    width: 24px;
+    height: 24px;
+}
+
+.footer-content-col-right {
+    display: flex;
+    gap: 32px;
+    align-items: flex-end;
+}
+
+.footer-list {
+    width: 187px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.footer-content-title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.footer-content-list {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #454545;
+}

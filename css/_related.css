@@ -1,0 +1,48 @@
+
+.related-content {
+    padding-bottom: 120px;
+    
+}
+
+.related-title {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    margin-bottom: 24px;
+}
+
+.related-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.related-pictute {
+    border-radius: 8px;
+    width: 406px;
+    height: 244px;
+    margin-bottom: 24px;
+}
+.related-desc {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+}
+
+.related-title-card {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.related-explan {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #828282;
+}
+.related-price {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+}
