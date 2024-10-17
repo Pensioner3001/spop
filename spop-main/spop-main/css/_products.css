@@ -1,0 +1,17 @@
+.products {
+    padding-bottom: 120px;
+}
+
+.products-title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 110%;
+    margin-bottom: 32px;
+}
+
+.products-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    justify-content: center;
+}

@@ -1,0 +1,53 @@
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 56px 0;
+    align-items: center;
+}
+
+.logo {
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.user-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 48px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 48px;
+}
+
+.link-nav {
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.btn {
+    color: #fff;
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 8px;
+    padding: 14px 0;
+    width: 99px;
+    text-align: center;
+    line-height: 150%;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn:active {
+    background-color: #000;
+    color: #fff;
+}
+
+
+
+

@@ -1,0 +1,35 @@
+.hero {
+    padding-bottom: 129px;
+}
+
+.hero-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero-bg {
+    background-image: url(/image/header-bg.png);
+    border-radius: 8px;
+    width: 1275px;
+    height: 597px;
+    background-position: center;
+    
+}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 64px;
+    letter-spacing: -0.02em;
+    color: #fff;
+    margin-bottom: 24px;
+}
+
+.hero-desc {
+    font-weight: 400;
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 24px;
+    line-height: 150%;
+}

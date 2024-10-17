@@ -1,0 +1,50 @@
+.shop-content {
+    display: flex;
+    gap: 140px;
+    padding-bottom: 80px;
+}
+
+.shop-picture {
+    border-radius: 12px;
+    width: 625px;
+    height: 613px;
+}
+
+.shop-desc {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.shop-title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 110%;
+}
+.shop-subtitle {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #828282;
+}
+.shop-price {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
+.shop-explan {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #828282;
+}
+.shop-btn {
+    border-radius: 8px;
+    padding: 14px 0;
+    width: 515px;
+}
+.addit {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #828282;
+}
